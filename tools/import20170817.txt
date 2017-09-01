@@ -1,0 +1,43 @@
+20_Play_Along_01a|avi|69fdcb3447c265948a32eff6fb80f66d|PLAY ALONG|00:30:40|379,531,162|幼教，英语，迪斯尼美语，一岁内至两岁
+21_Play_Along_02|avi|fa75eee2338dd2b366d8868b7b863c49|PLAY ALONG|00:30:16|374,302,082|幼教，英语，迪斯尼美语，一岁内至两岁
+22_Play_Along_03|avi|4cb73255c8548b03c63945db34a7c142|PLAY ALONG|00:50:11|619,446,524|幼教，英语，迪斯尼美语，一岁内至两岁
+01_3D-01|avi|9df73d852175067f04e8582e8e15aca7|Basic ABC's|00:31:25|388,429,274|幼教，英语，迪斯尼美语3D
+02_3D-02|avi|e204eea52a66a2363a0df832d01a3d6b|Basic ABC's|00:39:09|484,040,612|幼教，英语，迪斯尼美语3D
+03_3D-03|avi|6da1706a9a2cc0e1e3540f7baf2725b0|Basic ABC's|00:43:59|543,730,226|幼教，英语，迪斯尼美语3D
+04_3D-04|avi|2ca8a1fa92e0d2fc5a9934fb8381d94b|Basic ABC's|00:45:05|557,401,884|幼教，英语，迪斯尼美语3D
+05_3D-05|avi|45421afb5f40de5b288a5acf23369ac8|Basic ABC's|00:39:24|487,203,786|幼教，英语，迪斯尼美语3D
+06_3D-06|avi|96a967c73b20853554e75bfcadc37a2b|Basic ABC's|00:50:46|627,104,666|幼教，英语，迪斯尼美语3D
+07_3D-07|avi|82ada3d0e7afce5b324b6a5c2f059b8e|Basic ABC's|00:45:14|558,560,414|幼教，英语，迪斯尼美语3D
+08_3D-08|avi|1a1a53d1ca09a756d4274e02c43913cf|Basic ABC's|00:47:25|585,311,900|幼教，英语，迪斯尼美语3D
+09_3D-09|avi|92287232e9cf7253fa3bd634bbeb1637|Basic ABC's|00:50:33|624,162,850|幼教，英语，迪斯尼美语3D
+10_3D-10|avi|ec1c4171954746cf10aba4ac94573d9f|Basic ABC's|00:53:23|659,040,578|幼教，英语，迪斯尼美语3D
+11_3D-11|avi|9bcf02aa71177f5f50e1a7ab68ebead4|Basic ABC's|00:50:58|629,674,662|幼教，英语，迪斯尼美语3D
+12_3D-12|avi|c0d208386b4b8eed5b3e17220dd7e0f7|Basic ABC's|01:12:20|892,337,774|幼教，英语，迪斯尼美语3D
+40_Everyday_with_Zippy_01|avi|855b9143216076fd35c2af5dc6312707|EVERYDAY WITH ZIPPY|00:24:50|307,154,878|幼教，英语，迪斯尼美语
+41_Everyday_with_Zippy_02|avi|e4f3b62cc59ea46e5694fb4a8d2c1bec|EVERYDAY WITH ZIPPY|00:34:16|423,112,278|幼教，英语，迪斯尼美语
+42_Everyday_with_Zippy_03|avi|df5a41073f6818552dbf888a7bfff923|EVERYDAY WITH ZIPPY|00:39:08|482,986,276|幼教，英语，迪斯尼美语
+43_Everyday_with_Zippy_04|avi|af0141b540d93cf2b0b0d5f3664cf6af|EVERYDAY WITH ZIPPY|00:26:39|329,320,220|幼教，英语，迪斯尼美语
+13_Let's_play_01|avi|f8391f3391843eed648428787dd4e2c9|LET'S PLAY|00:14:53|185,242,322|幼教，英语，迪斯尼美语
+14_Let's_play_02|avi|ff1869a32a9d60558c440f7229f0f31a|LET'S PLAY|00:57:06|705,277,032|幼教，英语，迪斯尼美语
+15_Let's_play_03|avi|85e7126c91e59d63deb97bb1f15a420f|LET'S PLAY|00:39:05|483,420,646|幼教，英语，迪斯尼美语
+16_Let's_play_04|avi|e810a03841a885d6a410d76818c41322|LET'S PLAY|00:44:55|555,254,316|幼教，英语，迪斯尼美语
+17_Let's_play_05|avi|8e9b8bc47e64f3ef315a723d3d3f134b|LET'S PLAY|00:22:02|273,140,638|幼教，英语，迪斯尼美语
+18_Let's_play_06|avi|4e85dff8da5ad56e1eed6da92ceebc59|LET'S PLAY|01:02:55|777,352,682|幼教，英语，迪斯尼美语
+19_Let's_play_07|avi|50fcbb116e92ee77432517a7d9cf5db9|LET'S PLAY|00:14:50|184,890,196|幼教，英语，迪斯尼美语
+23_Sing_Along_01|avi|74dd8ca0cf7f33222e48db29a029e8c7|SING ALONG|01:02:34|772,607,510|幼教，英语，迪斯尼美语
+24_Sing_Along_02|avi|ee8cd663c404e1bf57e79808efb2fc8f|SING ALONG|01:06:46|824,396,992|幼教，英语，迪斯尼美语
+25_Sing_Along_03|avi|9569f05bf8309a052ede0634c48a4e55|SING ALONG|00:50:47|627,803,904|幼教，英语，迪斯尼美语
+26_Sing_Along_04|avi|c023d568c619d74761a1a3ae097d8360|SING ALONG|00:56:00|691,792,848|幼教，英语，迪斯尼美语
+27_Zippy_All_About_Me|avi|a1d1068c3acc0450857af4f201eb0f62|ZIPPY|00:44:23|548,953,678|幼教，英语，迪斯尼美语
+28_Zippy_Rainy_Day_Play|avi|7c81f8cc3679d781edd7a86309f612fa|ZIPPY|00:21:00|260,022,836|幼教，英语，迪斯尼美语
+29_Zippy_The_ABC|avi|ff57c98698924aa3be87d8bd5ac55b80|ZIPPY|00:28:25|351,300,154|幼教，英语，迪斯尼美语
+33_All_Year_Round_01|avi|df5a41073f6818552dbf888a7bfff923|ZIPPY|00:39:08|482,986,276|幼教，英语，迪斯尼美语
+34_Zippy_Dance_And_Sing_01|avi|2b01c84cfd771b8208f5e5aff4603f87|ZIPPY|00:09:49|123,838,282|幼教，英语，迪斯尼美语
+34_Zippy_Dance_And_Sing_02|avi|2b01c84cfd771b8208f5e5aff4603f87|ZIPPY|00:09:49|123,838,282|幼教，英语，迪斯尼美语
+34_Zippy_Dance_And_Sing_03|avi|b7ff3cdd3e1c78a8955f017f5ca54ffe|ZIPPY|00:11:13|139,850,636|幼教，英语，迪斯尼美语
+35_Zippy_From_Head_To_Toe|avi|47f98a0d0be212633fe0e8379260e5e3|ZIPPY|00:40:14|497,150,416|幼教，英语，迪斯尼美语
+36_Zippy_Fun_And_Game|avi|2016c568b3a38ef6955f74d98e19ea55|ZIPPY|00:43:03|531,652,816|幼教，英语，迪斯尼美语
+30_Zippy_And_Me_01|avi|78508fcdb8670ad3881508172bcbab22|ZIPPY AND ME|00:38:27|475,676,710|幼教，英语，迪斯尼美语
+31_Zippy_And_Me_02|avi|8bf95eb5d820d9f942cb9e6451b3c70f|ZIPPY AND ME|00:41:33|513,830,106|幼教，英语，迪斯尼美语
+32_Zippy_And_Me_03x|avi|aed548bb1f564903dd80d84d691f9467|ZIPPY AND ME|00:50:06|610,212,958|幼教，英语，迪斯尼美语
+39_Zippy_Sing_Along_03|avi|4f3ec50be7ed8227ace5281f8f6f78d8|ZIPPY SING ALONG|01:28:46|1,097,188,180|幼教，英语，迪斯尼美语

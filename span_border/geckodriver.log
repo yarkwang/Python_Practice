@@ -1,0 +1,50 @@
+1498617182955	geckodriver	INFO	Listening on 127.0.0.1:49988
+1498617184981	geckodriver::marionette	INFO	Starting browser e:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498617189137	Marionette	INFO	Listening on port 50009
+1498617189599	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.6.102.40:18610/CBE_Service/itreasury/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498617592476	geckodriver	INFO	Listening on 127.0.0.1:54470
+1498617594514	geckodriver::marionette	INFO	Starting browser e:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498617598579	Marionette	INFO	Listening on port 54507
+1498617598640	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.6.102.40:18610/CBE_Service/itreasury/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://10.6.102.40:18610/CBE_Service/, line 80: ReferenceError: event is not defined
+JavaScript error: http://10.6.102.40:18610/CBE_Service/, line 80: ReferenceError: event is not defined
+JavaScript error: http://10.6.102.40:18610/CBE_Service/, line 80: ReferenceError: event is not defined
+JavaScript error: http://10.6.102.40:18610/CBE_Service/, line 86: ReferenceError: event is not defined
+JavaScript error: http://10.6.102.40:18610/CBE_Service/, line 86: ReferenceError: event is not defined
+JavaScript error: http://10.6.102.40:18610/CBE_Service/, line 86: ReferenceError: event is not defined
+JavaScript error: http://10.6.102.40:18610/CBE_Service/, line 86: ReferenceError: event is not defined
+JavaScript error: http://10.6.102.40:18610/CBE_Service/, line 86: ReferenceError: event is not defined
+JavaScript error: http://10.6.102.40:18610/CBE_Service/, line 86: ReferenceError: event is not defined
+JavaScript warning: http://10.6.102.40:18610/CBE_Service/itreasury/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498617627643	geckodriver	INFO	Listening on 127.0.0.1:55040
+1498617629687	geckodriver::marionette	INFO	Starting browser e:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498617633617	Marionette	INFO	Listening on port 55085
+1498617633803	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.6.102.40:18610/CBE_Service/itreasury/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://10.6.102.40:18610/CBE_Service/, line 80: ReferenceError: event is not defined
+JavaScript error: http://10.6.102.40:18610/CBE_Service/, line 80: ReferenceError: event is not defined
+JavaScript error: http://10.6.102.40:18610/CBE_Service/, line 80: ReferenceError: event is not defined
+JavaScript error: http://10.6.102.40:18610/CBE_Service/, line 86: ReferenceError: event is not defined
+JavaScript error: http://10.6.102.40:18610/CBE_Service/, line 86: ReferenceError: event is not defined
+JavaScript error: http://10.6.102.40:18610/CBE_Service/, line 86: ReferenceError: event is not defined
+JavaScript error: http://10.6.102.40:18610/CBE_Service/, line 86: ReferenceError: event is not defined
+JavaScript error: http://10.6.102.40:18610/CBE_Service/, line 86: ReferenceError: event is not defined
+JavaScript error: http://10.6.102.40:18610/CBE_Service/, line 86: ReferenceError: event is not defined
+JavaScript warning: http://10.6.102.40:18610/CBE_Service/itreasury/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1498617722278	geckodriver	INFO	Listening on 127.0.0.1:56404
+1498617724317	geckodriver::marionette	INFO	Starting browser e:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+1498617727948	Marionette	INFO	Listening on port 56439
+1498617728493	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://10.6.102.40:18610/CBE_Service/itreasury/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: http://10.6.102.40:18610/CBE_Service/, line 80: ReferenceError: event is not defined
+JavaScript error: http://10.6.102.40:18610/CBE_Service/, line 80: ReferenceError: event is not defined
+JavaScript error: http://10.6.102.40:18610/CBE_Service/, line 80: ReferenceError: event is not defined
+JavaScript error: http://10.6.102.40:18610/CBE_Service/, line 86: ReferenceError: event is not defined
+JavaScript error: http://10.6.102.40:18610/CBE_Service/, line 86: ReferenceError: event is not defined
+JavaScript error: http://10.6.102.40:18610/CBE_Service/, line 86: ReferenceError: event is not defined
+JavaScript error: http://10.6.102.40:18610/CBE_Service/, line 86: ReferenceError: event is not defined
+JavaScript error: http://10.6.102.40:18610/CBE_Service/, line 86: ReferenceError: event is not defined
+JavaScript error: http://10.6.102.40:18610/CBE_Service/, line 86: ReferenceError: event is not defined
+JavaScript warning: http://10.6.102.40:18610/CBE_Service/itreasury/js/jquery-1.9.1.min.js, line 1: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
