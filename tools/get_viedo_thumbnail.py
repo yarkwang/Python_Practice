@@ -3,6 +3,8 @@ Created on 2017年9月4日
 
 @author: wei.wang7
 '''
+# coding=utf8
+
 import datetime
 import os
 import re
@@ -58,7 +60,9 @@ def thumb_with_ffmpeg(infile, position=0.5, executable=None):
                                 # * 10 because truncated to 2 decimal places
                                 milliseconds=m[3]*10).total_seconds()
     target=max(0, min(duration * position, duration - 0.1))
-    target="{:.3f}".format(target)
+    #target="{:.3f}".format(target)
+    '''抓固定时间点'''
+    target="00:00:18.000"
     args=[ffmpeg, "-ss", target,
           "-i", infile,
           "-map", "v:0",    # first video stream
